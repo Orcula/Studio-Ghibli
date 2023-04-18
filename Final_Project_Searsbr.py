@@ -19,10 +19,10 @@ cache = {}
 
 filterTree = \
     ("Do you want family friendly movies?",
-        ("Do you want Miyazaki films?",
+        ("Do you want Hayao Miyazaki films?",
             ('Do you want want movies with ratings greater than 90?', None, None),
             ('Do you want want movies with ratings greater than 90?', None, None)),
-        ("Do you want Miyazaki films?",
+        ("Do you want Hayao Miyazaki films?",
             ('Do you want want movies with ratings greater than 90?', None, None),
             ('Do you want want movies with ratings greater than 90?', None, None)))
 
